@@ -1,3 +1,9 @@
 # PF Home Edge Server
 
-Personal home edge server running on Nvidia Jetson AGX Xavier
+A self-hosted edge server using Linux and Docker, designed for home networking and media services, with future deployment on NVIDIA Jetson hardware.
+
+## Documentation
+
+- [Architecture](docs/architecture.md)
+- [Networking](docs/networking.md)
+- [Migration to Jetson](docs/migration-to-jetson.md)
